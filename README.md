@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/techfizz/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
